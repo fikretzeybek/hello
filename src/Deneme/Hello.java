@@ -9,8 +9,16 @@ public class Hello {
 
     public static  String str(){
 
-     String   str="d";
+     String   str="Demiryolu gecidi";
 
 return str;
+    }
+
+    void srt(){
+
+       String srt = "Java candir";
+
+
+
     }
 }
