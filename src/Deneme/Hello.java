@@ -18,7 +18,12 @@ return str;
 
        String srt = "Java candir";
 
-
-
     }
+    void ogrenci(){
+
+        String ogrenci = "Ali Can";
+    }
+
+
+
 }
