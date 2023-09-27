@@ -28,5 +28,9 @@ return str;
         String ogrenci = "Veli Can";
 
     }
+    void ogrenci3() {
 
+        String ogrenci = "Ayse Can";
+
+    }
 }
