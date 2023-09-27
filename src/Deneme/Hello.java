@@ -23,7 +23,10 @@ return str;
 
         String ogrenci = "Ali Can";
     }
+    void ogrenci2() {
 
+        String ogrenci = "Veli Can";
 
+    }
 
 }
